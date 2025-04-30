@@ -12,7 +12,7 @@ This project is an AI-powered ticketing chatbot designed to assist with IT suppo
 - **Semantic Search**: Uses the Semantic Kernel for efficient and accurate ticket querying, categorization, and response generation.
 
 ## Architecture
-
+ 
 The chatbot is built on a clean, modular architecture, making it easy to manage and extend. Below are the key components:
 
 ### 1. **Bot Interface**
